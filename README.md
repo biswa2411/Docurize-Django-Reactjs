@@ -6,7 +6,7 @@
 
 ### Clone the repo
 ```
-git clone git@code.nettantra.com:nettantra-prep/training-management-app.git
+git clone https://github.com/biswa2411/Docurize-Django-Reactjs.git
 ```
 ### Copy the .env.default to .env
 ```
