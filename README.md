@@ -1,4 +1,4 @@
-# Training Management
+# Project in Reactjs or Next.js with Django
 
 
 
